@@ -1,0 +1,21 @@
+[submodule "deps/warframe-public-export-plus"]
+	path = deps/warframe-public-export-plus
+	url = https://github.com/calamity-inc/warframe-public-export-plus.git
+[submodule "deps/browse.wf"]
+	path = deps/browse.wf
+	url = https://github.com/calamity-inc/browse.wf.git
+[submodule "deps/warframe-worldstate-data"]
+	path = deps/warframe-worldstate-data
+	url = https://github.com/WFCD/warframe-worldstate-data.git
+[submodule "deps/warframe-drop-data"]
+	path = deps/warframe-drop-data
+	url = https://github.com/WFCD/warframe-drop-data.git
+[submodule "deps/warframe-worldstate-parser"]
+	path = deps/warframe-worldstate-parser
+	url = https://github.com/WFCD/warframe-worldstate-parser.git
+[submodule "deps/warframe-patchlogs"]
+	path = deps/warframe-patchlogs
+	url = https://github.com/WFCD/warframe-patchlogs.git
+[submodule "deps/warframe-items"]
+	path = deps/warframe-items
+	url = https://github.com/WFCD/warframe-items.git
